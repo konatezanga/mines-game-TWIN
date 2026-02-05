@@ -1,24 +1,24 @@
-# Mines Game by CodeZenithAI
+# Mines Game by TWIN 2026
 
-A fun Minesweeper-style game built with React and Vite.
+Un jeu amusant de type Démineur, développé avec React et Vite.
 
-## Getting Started
+## Démarrage
 
-Follow these steps to run the project locally:
+Suivez ces étapes pour lancer le projet localement :
 
-### Step 1: Navigate to the project directory
+### Étape 1: Naviguez vers le répertoire du projet
 ```bash
 cd <YOUR_PROJECT_NAME>
 ```
 
-### Step 2: Install dependencies
+### Étape 2: Installez les dépendances
 ```bash
 npm install
 ```
 
-### Step 3: Start the development server
+### Étape 3: Lancez le serveur de développement
 ```bash
 npm run dev
 ```
 
-Your game should now be running at `http://localhost:8080` by default.
+Votre jeu devrait maintenant être lancé à `http://localhost:8080` par défaut.
